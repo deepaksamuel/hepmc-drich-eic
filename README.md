@@ -2,7 +2,7 @@
 
 The code that creates the hepmc file is in `drich_hepmc_writer_sp.C`. This was provided by Chandradoy Chatterjee (INFN), modified by Deepak Samuel (CUK).
 
-The filenames have the format `PID_MOMENTUM_ETABIN.hepmc`.
+The filenames have the format `PID_MOMENTUM_ETABIN.hepmc`. Each file contains 2000 events.
 
 - `PID` can be one of:  
 [2212, 321 or 211]
